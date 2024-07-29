@@ -1,0 +1,6 @@
+aliyun:
+  oss:
+    endpoint : 123
+    accessKeyId : 123
+    accessKeySecret : 123
+    bucketName : 123
